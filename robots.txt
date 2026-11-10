@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weightlossglendale.com/sitemap.xml
